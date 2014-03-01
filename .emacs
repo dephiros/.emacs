@@ -9,6 +9,7 @@
 ; General
 (setq line-number-mode t)
 (setq column-numbe-mode t)
+(setq show-paren-mode t)
 (setq inhibit-splash-screen t)
 
 ;; Theme
