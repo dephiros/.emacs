@@ -15,6 +15,7 @@
 ;; Theme
 (if (display-graphic-p)
     (load-theme 'wombat t))
+    (set-frame-font "Inconsolata-16" nil t)
 
 ;; backup file
 
