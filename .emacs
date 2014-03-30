@@ -11,6 +11,7 @@
 (setq column-numbe-mode t)
 (setq show-paren-mode t)
 (setq inhibit-splash-screen t)
+(global-visual-line-mode 1)
 
 ;; Theme
 (if (display-graphic-p)
