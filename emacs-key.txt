@@ -32,3 +32,13 @@ C-x ]
 C-x [
 M-< 
 
+M-c
+M-u
+M-l
+Meta - M-c
+Meta - M-u
+Meta - M-l
+
+C-t
+M-t
+C-x C-t
